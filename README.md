@@ -25,7 +25,10 @@ The AQI categories are based on the AQI value and are classified as follows:
 - **Streamlit**: Frontend framework for building the interactive web app.
 - **Pandas**: Data manipulation and processing.
 - **Scikit-learn**: For possible machine learning extensions (e.g., AQI prediction).
-  
+
+
+## Data Sources
+- **KAGGLE API**: kaggle datasets download -d hasibalmuzdadid/global-air-pollution-dataset   
 ## Installation
 
 ### Prerequisites
@@ -37,5 +40,5 @@ The AQI categories are based on the AQI value and are classified as follows:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/shaivi04/Global-AQI-analysi
-   cd Global-AQI-analysi
+   git clone https://github.com/shaivi04/Global-AQI-analysis
+   cd Global-AQI-analysis
