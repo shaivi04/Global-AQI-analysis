@@ -26,17 +26,33 @@ The AQI categories are based on the AQI value and are classified as follows:
 - **Pandas**: Data manipulation and processing.
 - **Scikit-learn**: For possible machine learning extensions (e.g., AQI prediction).
 
-
 ## Data Sources
+
 - **KAGGLE API**:
     ```bash
     kaggle datasets download -d hasibalmuzdadid/global-air-pollution-dataset   
+    ```
+
 ## Installation
 
 ### Prerequisites
 - Python 3.x
 - Pip package manager
 
-##LINK
-```bash
-https://global-aqi-analysis-gxgxq8pujn2y6wp2ngpotn.streamlit.app/
+### Steps to Install
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/shaivi04/Global-AQI-analysis.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Global-AQI-analysis
+    ```
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Live Demo
+- You can access the live demo of the application here: [Global AQI Analysis](https://global-aqi-analysis-gxgxq8pujn2y6wp2ngpotn.streamlit.app/)
+
