@@ -37,10 +37,6 @@ The AQI categories are based on the AQI value and are classified as follows:
 - Python 3.x
 - Pip package manager
 
-### Steps
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/shaivi04/Global-AQI-analysis
-   cd Global-AQI-analysis
+##LINK
+```bash
+https://global-aqi-analysis-gxgxq8pujn2y6wp2ngpotn.streamlit.app/
