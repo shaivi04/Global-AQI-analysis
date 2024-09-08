@@ -24,7 +24,7 @@ The AQI categories are based on the AQI value and are classified as follows:
 - **Python**: Backend language for data processing.
 - **Streamlit**: Frontend framework for building the interactive web app.
 - **Pandas**: Data manipulation and processing.
-- **Scikit-learn**: For possible machine learning extensions (e.g., AQI prediction).
+- **Scikit-learn**: For machine learning (AQI prediction).
 
 ## Data Sources
 
