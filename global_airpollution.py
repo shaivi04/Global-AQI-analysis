@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
-
+import distutils.core
 
 
 data = pd.read_csv('global air pollution dataset.csv')
