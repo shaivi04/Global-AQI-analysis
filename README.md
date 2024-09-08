@@ -28,7 +28,9 @@ The AQI categories are based on the AQI value and are classified as follows:
 
 
 ## Data Sources
-- **KAGGLE API**: kaggle datasets download -d hasibalmuzdadid/global-air-pollution-dataset   
+- **KAGGLE API**:
+    ```bash
+    kaggle datasets download -d hasibalmuzdadid/global-air-pollution-dataset   
 ## Installation
 
 ### Prerequisites
