@@ -1,4 +1,4 @@
-# Country and City-wise AQI Visualization
+# AQI Predictor
 
 This project provides an interactive web-based tool to visualize Air Quality Index (AQI) data by country and city. Users can select a country and then filter by city to view AQI values and categories. It also can predict AQI category using CO AQI Value, NO AQI Value, Ozone AQI Value, PM2.5 AQI Value. The app is built using **Streamlit** and allows easy interaction with large datasets.
 
